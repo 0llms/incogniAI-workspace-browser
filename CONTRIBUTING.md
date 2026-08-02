@@ -1,18 +1,5 @@
-# Contributing to BrowserOS
+# Contributing to incogniAI-workspace-browser
 
-Hey there! Thanks for your interest in BrowserOS. Whether you're fixing bugs, adding features, improving docs, or just poking around the code, we're glad you're here.
-
-BrowserOS is a monorepo with two main parts:
-- **Agent** - The Chrome extension with AI features (TypeScript/React)
-- **Browser** - The custom Chromium build (C++/Python)
-
-Most folks start with the agent since it's way easier to set up and iterate on.
-
-## Pick Your Path
-
-<table>
-<tr>
-<td width="50%">
 
 ### 🤖 Agent Development
 
@@ -49,11 +36,6 @@ Most folks start with the agent since it's way easier to set up and iterate on.
 
 **Skills:** C++, Python, Chromium internals
 
-**[→ Browser Setup](#browser-development)**
-
-</td>
-</tr>
-</table>
 
 ## Agent Development
 
